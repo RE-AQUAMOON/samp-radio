@@ -1,0 +1,20 @@
+<icecast>
+    <location>India</location>
+    <admin>admin@localhost</admin>
+    <limits>
+        <clients>100</clients>
+        <sources>2</sources>
+    </limits>
+    <authentication>
+        <source-password>aash1234ray</source-password>
+        <relay-password>aash1234ray</relay-password>
+        <admin-user>admin</admin-user>
+        <admin-password>aash1234ray</admin-password>
+    </authentication>
+    <listen-socket>
+        <port>8000</port>
+    </listen-socket>
+    <http-headers>
+        <header name="Access-Control-Allow-Origin" value="*" />
+    </http-headers>
+</icecast>
