@@ -12,7 +12,7 @@
         <admin-password>aash1234ray</admin-password>
     </authentication>
     <listen-socket>
-        <port>8000</port>
+        <port>10000</port>
     </listen-socket>
     <http-headers>
         <header name="Access-Control-Allow-Origin" value="*" />
