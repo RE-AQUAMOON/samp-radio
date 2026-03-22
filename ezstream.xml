@@ -1,6 +1,6 @@
 <ezstream>
     <url>http://localhost:8000/stream</url>
-    <sourcepassword>YOUR_PASSWORD</sourcepassword>
+    <sourcepassword>aash1234ray</sourcepassword>
     <format>MP3</format>
     <filename>/music/playlist.m3u</filename>
     <shuffle>1</shuffle>
